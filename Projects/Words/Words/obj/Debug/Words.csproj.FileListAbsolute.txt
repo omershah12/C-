@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\Words\Words\bin\Debug\Words.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Words\Words\bin\Debug\Words.exe
+c:\users\admin\documents\visual studio 2015\Projects\Words\Words\bin\Debug\Words.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Words\Words\obj\Debug\Words.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Words\Words\obj\Debug\Words.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\Words\Words\obj\Debug\Words.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\Words\Words\obj\Debug\Words.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\Words\Words\obj\Debug\Words.exe
+c:\users\admin\documents\visual studio 2015\Projects\Words\Words\obj\Debug\Words.pdb

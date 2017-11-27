@@ -1,0 +1,20 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Subtract</title>
+</head>
+<body>
+    <div> 
+        @{
+            Response.Write(ViewData["No1"].ToString() + " - " + ViewData["No2"].ToString() + "= " + ViewData["No3"].ToString() + " " + ViewData["Result"].ToString());
+        }
+    </div>
+</body>
+</html>

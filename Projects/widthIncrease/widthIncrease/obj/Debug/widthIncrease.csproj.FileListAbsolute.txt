@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2015\Projects\widthIncrease\widthIncrease\bin\Debug\widthIncrease.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\widthIncrease\widthIncrease\bin\Debug\widthIncrease.exe
+c:\users\admin\documents\visual studio 2015\Projects\widthIncrease\widthIncrease\bin\Debug\widthIncrease.pdb
+c:\users\admin\documents\visual studio 2015\Projects\widthIncrease\widthIncrease\obj\Debug\widthIncrease.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\widthIncrease\widthIncrease\obj\Debug\widthIncrease.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\widthIncrease\widthIncrease\obj\Debug\widthIncrease.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\widthIncrease\widthIncrease\obj\Debug\widthIncrease.exe
+c:\users\admin\documents\visual studio 2015\Projects\widthIncrease\widthIncrease\obj\Debug\widthIncrease.pdb

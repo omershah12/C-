@@ -1,0 +1,25 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>InputForm</title>
+</head>
+<body>
+    <div> 
+        <form action="/Operation" method="post">
+            FirstNo: <input type="text" name="No1" />
+            <br />
+            SecondNo: <input type="text" name="No2" />
+            <br />
+            <input type="hidden" name="operation" value="@ViewData["opt"]" />
+            <input type="submit" />
+        </form>
+    </div>
+</body>
+</html>

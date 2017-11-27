@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\FirstTask(2)\FirstTask(2)\bin\Debug\FirstTask(2).exe.config
+c:\users\admin\documents\visual studio 2015\Projects\FirstTask(2)\FirstTask(2)\bin\Debug\FirstTask(2).exe
+c:\users\admin\documents\visual studio 2015\Projects\FirstTask(2)\FirstTask(2)\bin\Debug\FirstTask(2).pdb
+c:\users\admin\documents\visual studio 2015\Projects\FirstTask(2)\FirstTask(2)\obj\Debug\FirstTask(2).csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\FirstTask(2)\FirstTask(2)\obj\Debug\FirstTask(2).exe
+c:\users\admin\documents\visual studio 2015\Projects\FirstTask(2)\FirstTask(2)\obj\Debug\FirstTask(2).pdb

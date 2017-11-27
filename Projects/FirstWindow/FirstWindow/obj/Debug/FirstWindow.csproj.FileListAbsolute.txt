@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\FirstWindow\FirstWindow\bin\Debug\FirstWindow.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\FirstWindow\FirstWindow\bin\Debug\FirstWindow.exe
+c:\users\admin\documents\visual studio 2015\Projects\FirstWindow\FirstWindow\bin\Debug\FirstWindow.pdb
+c:\users\admin\documents\visual studio 2015\Projects\FirstWindow\FirstWindow\obj\Debug\FirstWindow.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\FirstWindow\FirstWindow\obj\Debug\FirstWindow.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\FirstWindow\FirstWindow\obj\Debug\FirstWindow.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\FirstWindow\FirstWindow\obj\Debug\FirstWindow.exe
+c:\users\admin\documents\visual studio 2015\Projects\FirstWindow\FirstWindow\obj\Debug\FirstWindow.pdb
+c:\users\admin\documents\visual studio 2015\Projects\FirstWindow\FirstWindow\obj\Debug\FirstWindow.QAC.resources

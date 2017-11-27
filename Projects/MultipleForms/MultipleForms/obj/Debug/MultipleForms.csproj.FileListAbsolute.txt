@@ -1,0 +1,10 @@
+c:\users\admin\documents\visual studio 2015\Projects\MultipleForms\MultipleForms\bin\Debug\MultipleForms.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\MultipleForms\MultipleForms\bin\Debug\MultipleForms.exe
+c:\users\admin\documents\visual studio 2015\Projects\MultipleForms\MultipleForms\bin\Debug\MultipleForms.pdb
+c:\users\admin\documents\visual studio 2015\Projects\MultipleForms\MultipleForms\obj\Debug\MultipleForms.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\MultipleForms\MultipleForms\obj\Debug\MultipleForms.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\MultipleForms\MultipleForms\obj\Debug\MultipleForms.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\MultipleForms\MultipleForms\obj\Debug\MultipleForms.Result.resources
+c:\users\admin\documents\visual studio 2015\Projects\MultipleForms\MultipleForms\obj\Debug\MultipleForms.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\MultipleForms\MultipleForms\obj\Debug\MultipleForms.exe
+c:\users\admin\documents\visual studio 2015\Projects\MultipleForms\MultipleForms\obj\Debug\MultipleForms.pdb

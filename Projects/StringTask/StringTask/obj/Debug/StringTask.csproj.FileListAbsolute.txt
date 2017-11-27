@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\StringTask\StringTask\bin\Debug\StringTask.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\StringTask\StringTask\bin\Debug\StringTask.exe
+c:\users\admin\documents\visual studio 2015\Projects\StringTask\StringTask\bin\Debug\StringTask.pdb
+c:\users\admin\documents\visual studio 2015\Projects\StringTask\StringTask\obj\Debug\StringTask.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\StringTask\StringTask\obj\Debug\StringTask.exe
+c:\users\admin\documents\visual studio 2015\Projects\StringTask\StringTask\obj\Debug\StringTask.pdb

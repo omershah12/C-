@@ -1,0 +1,51 @@
+﻿@model MVCDatabase.Models.Data
+@using System.Data.SqlClient
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+
+</head>
+<body>
+    <div>
+        @{
+            SqlConnection con = new SqlConnection();
+            con.ConnectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename='c:\\users\\admin\\documents\\visual studio 2015\\Projects\\MVCDatabase\\MVCDatabase\\App_Data\\Database1.mdf';Integrated Security=True";
+            con.Open();
+            SqlCommand cmd = con.CreateCommand();
+            SqlDataReader data;
+            cmd.CommandText = "SELECT * FROM AccountHoloders";
+            data = cmd.ExecuteReader();
+            Response.Write("<table><tr><th>no</th><th>Name</th><th>Address</th><th>Telephone</th><th colspan=\"2\">Operations</th>");
+            int i = 1;
+            while (data.Read())
+            {
+                Response.Write($"<tr><td>{i++}</td><td>{data["name"].ToString()}</td><td>{data["address"].ToString()}</td><td>{data["telephone"]}</td><td><a href='/Edit/{data["PId"]}'>edit</a></td><td><a href='/Delete/{data["PId"]}' class='confirmation'>Delete</a></td></tr>");
+            }
+            Response.Write("</table>");
+            data.Close();
+        }
+
+        <br />
+        <br />
+        <a href="/new">New Record</a>
+
+        <script type="text/javascript">
+            var elems = document.getElementsByClassName('confirmation');
+            var confirmIt = function (e) {
+                if (!confirm('Are you sure?')) e.preventDefault();
+            };
+            for (var i = 0, l = elems.length; i < l; i++) {
+                elems[i].addEventListener('click', confirmIt, false);
+            }
+        </script>
+    </div>
+</body>
+</html>

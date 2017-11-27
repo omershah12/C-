@@ -1,0 +1,38 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Output</title>
+</head>
+<body>
+    <div>
+        First No: @ViewData["No1"].ToString()
+        <br />
+        Second No: @ViewData["No2"].ToString()
+        <br /> 
+
+        The result of @ViewData["NewOp"].ToString() is @ViewData["Result"].ToString()
+
+        <form action="/Operation" method="post">
+            FirstNo: <input type="text" name="No1" value="@ViewData["No1"]" />
+            <br />
+            SecondNo: <input type="text" name="No2" value="@ViewData["No2"]" />
+            <br />
+            <select name="operation">
+                <option value="add">add</option>
+                <option value="sub">sub</option>
+                <option value="mul">mul</option>
+                <option value="div">div</option>
+            </select>
+
+            <input type="submit" />
+        </form>
+    </div>
+</body>
+</html>

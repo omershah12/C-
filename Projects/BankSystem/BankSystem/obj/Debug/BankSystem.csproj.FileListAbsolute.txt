@@ -1,0 +1,13 @@
+c:\users\admin\documents\visual studio 2015\Projects\BankSystem\BankSystem\bin\Debug\BankSystem.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\BankSystem\BankSystem\bin\Debug\Database1.mdf
+c:\users\admin\documents\visual studio 2015\Projects\BankSystem\BankSystem\bin\Debug\Database1_log.ldf
+c:\users\admin\documents\visual studio 2015\Projects\BankSystem\BankSystem\bin\Debug\BankSystem.exe
+c:\users\admin\documents\visual studio 2015\Projects\BankSystem\BankSystem\bin\Debug\BankSystem.pdb
+c:\users\admin\documents\visual studio 2015\Projects\BankSystem\BankSystem\obj\Debug\BankSystem.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\BankSystem\BankSystem\obj\Debug\BankSystem.newAcc.resources
+c:\users\admin\documents\visual studio 2015\Projects\BankSystem\BankSystem\obj\Debug\BankSystem.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\BankSystem\BankSystem\obj\Debug\BankSystem.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\BankSystem\BankSystem\obj\Debug\BankSystem.exe
+c:\users\admin\documents\visual studio 2015\Projects\BankSystem\BankSystem\obj\Debug\BankSystem.pdb
+c:\users\admin\documents\visual studio 2015\Projects\BankSystem\BankSystem\obj\Debug\BankSystem.deposit.resources
+c:\users\admin\documents\visual studio 2015\Projects\BankSystem\BankSystem\obj\Debug\BankSystem.Withdraw.resources

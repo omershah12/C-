@@ -1,0 +1,15 @@
+﻿@model MvcUserSQL.Models.user
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/View.cshtml";
+}
+
+<h2>Index</h2>
+<form action="Process" method="post">
+    Username: <input type="text" name="username" />
+    <br />
+    Password: <input type="password" name="password" />
+    <br />
+    <input type="submit" value="Login" />
+</form>

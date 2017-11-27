@@ -1,0 +1,25 @@
+﻿@model MVCDatabase.Models.Data
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Edit</title>
+    
+</head>
+<body>
+    <div>
+        <form action="/EditProcess/@ViewData["ID"]" method="post">
+            Name: <input name="N" type="text" value="@Model.N" required />
+            Address: <input name="A" type="text" value="@Model.A" required />
+            Telephone: <input name="T" type="text" value="@Model.T" required />
+            <input type="submit" />
+        </form>
+    </div>
+</body>
+</html>
